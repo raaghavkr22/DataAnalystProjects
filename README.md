@@ -1,3 +1,3 @@
 # DataAnalystProjects
-Here you can access to a plenty of data analysis projects using Tableau,Jupyter Notebook etc.
+This is a data analysis portfolio project in which I have done the SalesAnalysis of Amazon data using JupyterNotebook and created an interactive dashboard in Tableau.
 Hope it helps.
